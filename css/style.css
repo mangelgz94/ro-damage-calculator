@@ -1,0 +1,25 @@
+/*
+Custom
+*/
+legend {
+	background-color: #eee;
+	margin-top: 15px;
+}
+
+fieldset div.row {
+	padding: 5px;
+	margin: 0px;
+}
+
+form {
+	background-color: #eee;
+	font-family: 'Bree Serif', serif;
+}
+
+body {
+	background-color: #eee;
+}
+
+.btn-toolbar {
+	margin-bottom: 10px;
+}
